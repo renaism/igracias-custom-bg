@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Custom background for iGracias login page
 // @author       Rezza Nafi
-// @match        https://igracias.telkomuniversity.ac.id
+// @match        https://igracias.telkomuniversity.ac.id/*
 // @grant        none
 // ==/UserScript==
 
